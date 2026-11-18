@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-Data Engineer at **Kyndryl**, based in Madrid, with ~7 years of experience in software development.
+Forward Deployed Engineer at **Kyndryl**, based in Madrid, with ~7 years of experience in software development.
 I design and build data pipelines and cloud infrastructure, mostly on AWS and GCP.
 
 ### 🔭 What I'm working on
@@ -14,7 +14,7 @@ I design and build data pipelines and cloud infrastructure, mostly on AWS and GC
 - 🎓 Studies Data Science at UOC (Universitat Oberta de Catalunya)
 
 ### 🛠️ Tech I work with
-**Data:** Kafka · Flink · PostgreSQL · Neo4j 
+**Data:** Kafka · Flink · PostgreSQL · Neo4j  
 **Cloud:** AWS · GCP  
 **Languages:** Python · Rust · SQL · Java · R
 
