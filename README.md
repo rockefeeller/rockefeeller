@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Alejandro 👋
 
-<!--
-**rockefeeller/rockefeeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer at **Kyndryl**, based in Madrid, with ~7 years of experience in software development.
+I design and build data pipelines and cloud infrastructure, mostly on AWS and GCP.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- **[nimbux](https://github.com/rockefeeller/nimbux)**: one CLI to rule them all. A unified wrapper over the AWS, GCP and Azure CLIs, written in Rust.
+- Real-time CDC pipelines with Kafka and Flink.
+- Graph-based data models with Neo4j.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- 🦀 Rust
+- ☁️ Google Cloud Professional Data Engineer certification
+- 🎓 Studies Data Science at UOC (Universitat Oberta de Catalunya)
+
+### 🛠️ Tech I work with
+**Data:** Kafka · Flink · PostgreSQL · Neo4j ·   
+**Cloud:** AWS · GCP  
+**Languages:** Python · Rust · SQL · Java · R
+
+### 📫 Get in touch
+[LinkedIn](https://www.linkedin.com/in/alejandrogallardoherranz/)
